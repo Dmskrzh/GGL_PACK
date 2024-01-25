@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 23
+	  },
+    "description": "V 3.3 © Magistr193"
+  },
+  "language": {
+    "rr_rr": {
+      "name": "Русский (ГГЛ)",
+      "region": "Гомель",
+      "bidirectional": false
+    }
+  }
+}
